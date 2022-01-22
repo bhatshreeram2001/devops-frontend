@@ -41,7 +41,7 @@
 body{
     min-height: 100%;
     padding: 2%;
-    background: url("./web.png") no-repeat fixed center;
+    background: url("web.png") no-repeat fixed center;
     background-size: 100%;
 }
 

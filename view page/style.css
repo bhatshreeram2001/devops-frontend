@@ -1,0 +1,13 @@
+* {
+    margin: auto;
+  }
+  
+  body {
+    background-image: url("web.png");
+    background-size: cover;
+  }
+  
+  .table {
+    border: 2px solid black;
+  }
+  
